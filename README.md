@@ -89,16 +89,16 @@ An **interactive Power BI dashboard** was developed to visualize:
 Customer-Shopping-Behavior-Analysis/
 │
 ├── data/
-│   └── raw_data.csv
+│   └── customer_shopping_behavior.csv
 │
 ├── notebooks/
-│   └── data_cleaning_feature_engineering.ipynb
+│   └── customer_behavior_dashboard.pbix
 │
 ├── sql/
-│   └── business_queries.sql
+│   └── customer_behavior_sql_queries.sql
 │
 ├── dashboard/
-│   └── powerbi_dashboard.pbix
+│   └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── reports/
 │   └── Customer_Shopping_Behavior_Analysis.pdf
