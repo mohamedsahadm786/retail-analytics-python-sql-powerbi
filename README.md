@@ -115,6 +115,6 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-**⭐ Author:** [Your Name]  
-**📧 Contact:** [your.email@example.com]  
-**🔗 Connect:** [LinkedIn Profile] · [Portfolio] · [GitHub Profile]
+**⭐ Author:** Mohamed Sahad M 
+**📧 Contact:** mohamedsahadm786@gmail.com 
+
