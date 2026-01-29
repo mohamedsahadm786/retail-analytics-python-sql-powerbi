@@ -214,7 +214,6 @@ customer-shopping-behavior-analysis/
 │
 ├── Business Problem Document.pdf
 ├── Customer Shopping Behavior Analysis.pdf
-├── Banking.pptx
 └── README.md
 ```
 
